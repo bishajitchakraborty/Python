@@ -1,0 +1,12 @@
+array=[1,2,3,4,5]
+print("Enter Array:",array)
+array.append(6)
+print("Enter Append Array:",array)
+array.insert(2,8)
+print("Enter insert array:",array)
+array.remove(2)
+print("Enter delete value:",array)
+array.reverse()
+print("Enter reverse Value:",array)
+array.sort()
+print("Enter Sorted Value:",array)
